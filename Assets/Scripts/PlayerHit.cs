@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class PlayerHit : MonoBehaviour
 {
+    public Player player;
+
     // Start is called before the first frame update
     void Start()
     {
-        
     }
 
     // Update is called once per frame
@@ -21,6 +22,10 @@ public class PlayerHit : MonoBehaviour
         if(collision.CompareTag("breakable"))
         {
             collision.GetComponent<pot>().Smash();
+        }
+        else if(collision.CompareTag("Mob"))
+        {
+            collision.GetComponent<Mob>().takeDmg(player.dmgRating);
         }
     }
 }
