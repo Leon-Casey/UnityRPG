@@ -25,7 +25,7 @@ public class PlayerHit : MonoBehaviour
         }
         else if(collision.CompareTag("Mob"))
         {
-            collision.GetComponent<Mob>().takeDmg(player.dmgRating);
+            collision.GetComponent<Mob>().TakeDmg(player.dmgRating);
         }
     }
 }

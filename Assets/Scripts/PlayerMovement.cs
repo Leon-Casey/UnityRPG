@@ -13,7 +13,7 @@ public enum PlayerState
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed;
+    private float speed = 7.5f;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
@@ -71,6 +71,6 @@ public class PlayerMovement : MonoBehaviour
 
     void MoveCharacter()
     {
-        myRigidbody.MovePosition(transform.position + change.normalized * speed * Time.deltaTime);
+        myRigidbody.MovePosition(transform.position + change.normalized * speed * Time.fixedDeltaTime);
     }
 }

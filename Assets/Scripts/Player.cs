@@ -11,6 +11,30 @@ public class Player : Entity
 
     ArrayList targetsInRange = new ArrayList();
 
+    //PRIMARY STATS (ones that affect skills/spells and damage)
+    //==============
+    // heavy melee weaps
+    public int strength;
+
+    // quick melee weaps
+    public int dexterity;
+
+    // magic
+    public int intelligence;
+
+    //SECONDARY STATS (ones that affect other things like hp, bonus xp, item find)
+    //===============
+    // health
+    public int stamina;
+
+    // bonus xp
+    public int focus;
+
+    // item find
+    public int luck;
+
+
+
 
     //public Player(string name, int level, double hp, int xPos, int yPos)
     //{
@@ -46,7 +70,7 @@ public class Player : Entity
         foreach(Entity target in targetsInRange)
         {
             //dealDmg(target, this.dmgRating);
-            dealDmg(target, 5);
+            DealDmg(target, 5);
         }
     }
 
@@ -63,18 +87,18 @@ public class Player : Entity
         //this.targetsInRange.Add(new Player("Bob", 1, 25, 5, 5));
     }
 
-    override public void dealDmg(Entity target, int dmg)
+    override public void DealDmg(Entity target, int dmg)
     {
         Debug.Log(this.name + "deals " + dmg + " damage to " + target.getName() + "!");
-        target.takeDmg(dmg);
+        target.TakeDmg(dmg);
     }
 
-    override public void takeDmg(int dmg)
+    override public void TakeDmg(int dmg)
     {
         this.hp -= dmg;
         if (this.hp <= 0)
         {
-            die();
+            Die();
         }
         else
         {
@@ -82,7 +106,7 @@ public class Player : Entity
         }
     }
 
-    override public void die()
+    override public void Die()
     {
         Debug.Log(this.name + " died!");
     }

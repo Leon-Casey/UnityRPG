@@ -4,11 +4,14 @@ using UnityEngine;
 
 abstract public class Entity : MonoBehaviour
 {
-    public string name;
+    public string entityName;
     public int level;
     
     public double hp;
     public int dmgRating;
+
+    public float moveSpeed;
+
 
     int xPos;
     int yPos;
@@ -84,11 +87,11 @@ abstract public class Entity : MonoBehaviour
     }
     #endregion
 
-    abstract public void dealDmg(Entity target, int dmg);
+    abstract public void DealDmg(Entity target, int dmg);
 
-    abstract public void takeDmg(int dmg);
+    abstract public void TakeDmg(int dmg);
 
-    abstract public void die();
+    abstract public void Die();
 
     // Start is called before the first frame update
     abstract protected void Start();

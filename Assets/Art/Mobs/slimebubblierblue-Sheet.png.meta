@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 20fdd4fd09e6f6149b87ef1b9f3c73d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8971835482822678697
+    second: slimebubblierblue-Sheet_0
+  - first:
+      213: -1201693128837602314
+    second: slimebubblierblue-Sheet_1
+  - first:
+      213: 8363348724406157503
+    second: slimebubblierblue-Sheet_2
+  - first:
+      213: 6525221899094959049
+    second: slimebubblierblue-Sheet_3
+  - first:
+      213: 2034870694659061141
+    second: slimebubblierblue-Sheet_4
+  - first:
+      213: 7208138336904330360
+    second: slimebubblierblue-Sheet_5
+  - first:
+      213: -6068567399418122064
+    second: slimebubblierblue-Sheet_6
+  - first:
+      213: -4877302832940284992
+    second: slimebubblierblue-Sheet_7
+  - first:
+      213: 8547417764075043407
+    second: slimebubblierblue-Sheet_8
+  - first:
+      213: -1383363766434061680
+    second: slimebubblierblue-Sheet_9
+  - first:
+      213: 5883725422280005525
+    second: slimebubblierblue-Sheet_10
+  - first:
+      213: 2980992878065759489
+    second: slimebubblierblue-Sheet_11
+  - first:
+      213: 7762929210565047304
+    second: slimebubblierblue-Sheet_12
+  - first:
+      213: 8157064471056783947
+    second: slimebubblierblue-Sheet_13
+  - first:
+      213: 1396677960976474782
+    second: slimebubblierblue-Sheet_14
+  - first:
+      213: 1063199518631692956
+    second: slimebubblierblue-Sheet_15
+  - first:
+      213: 940544994936991392
+    second: slimebubblierblue-Sheet_16
+  - first:
+      213: 8941844719112924584
+    second: slimebubblierblue-Sheet_17
+  - first:
+      213: -2474472262984013882
+    second: slimebubblierblue-Sheet_18
+  - first:
+      213: 7745341635711145588
+    second: slimebubblierblue-Sheet_19
+  - first:
+      213: -3965167382822822488
+    second: slimebubblierblue-Sheet_20
+  - first:
+      213: -5075753177669424610
+    second: slimebubblierblue-Sheet_21
+  - first:
+      213: -5320547329703000321
+    second: slimebubblierblue-Sheet_22
+  - first:
+      213: -4777262228167032142
+    second: slimebubblierblue-Sheet_23
+  - first:
+      213: 5327529943194984483
+    second: slimebubblierblue-Sheet_24
+  - first:
+      213: -1215902589793295895
+    second: slimebubblierblue-Sheet_25
+  - first:
+      213: -6359499783844937318
+    second: slimebubblierblue-Sheet_26
+  - first:
+      213: 587024866045371144
+    second: slimebubblierblue-Sheet_27
+  - first:
+      213: 5757676460218736368
+    second: slimebubblierblue-Sheet_28
+  - first:
+      213: 5323176779191208664
+    second: slimebubblierblue-Sheet_29
+  - first:
+      213: 3129423212096803101
+    second: slimebubblierblue-Sheet_30
+  - first:
+      213: 6334454847085729223
+    second: slimebubblierblue-Sheet_31
+  - first:
+      213: -2952906905844280526
+    second: slimebubblierblue-Sheet_32
+  - first:
+      213: 2410978129427578868
+    second: slimebubblierblue-Sheet_33
+  - first:
+      213: 212447459537211956
+    second: slimebubblierblue-Sheet_34
+  - first:
+      213: 5901201831825348138
+    second: slimebubblierblue-Sheet_35
+  - first:
+      213: 444755313413164041
+    second: slimebubblierblue-Sheet_36
+  - first:
+      213: -7038282781199320521
+    second: slimebubblierblue-Sheet_37
+  - first:
+      213: -6892289822421728389
+    second: slimebubblierblue-Sheet_38
+  - first:
+      213: 3567186381203511564
+    second: slimebubblierblue-Sheet_39
+  - first:
+      213: -4148741379888381679
+    second: slimebubblierblue-Sheet_40
+  - first:
+      213: -4887760325846321277
+    second: slimebubblierblue-Sheet_41
+  - first:
+      213: -341992643885547771
+    second: slimebubblierblue-Sheet_42
+  - first:
+      213: -793074570974439545
+    second: slimebubblierblue-Sheet_43
+  - first:
+      213: -6666472757369333174
+    second: slimebubblierblue-Sheet_44
+  - first:
+      213: -6027608251155404050
+    second: slimebubblierblue-Sheet_45
+  - first:
+      213: 3873812471831913669
+    second: slimebubblierblue-Sheet_46
+  - first:
+      213: -7168054490101633935
+    second: slimebubblierblue-Sheet_47
+  - first:
+      213: 776691787182085109
+    second: slimebubblierblue-Sheet_48
+  - first:
+      213: -4611226312169175355
+    second: slimebubblierblue-Sheet_49
+  - first:
+      213: 4266852170548844919
+    second: slimebubblierblue-Sheet_50
+  - first:
+      213: -7247677578780471667
+    second: slimebubblierblue-Sheet_51
+  - first:
+      213: -6480928724030546653
+    second: slimebubblierblue-Sheet_52
+  - first:
+      213: -2051401523771359329
+    second: slimebubblierblue-Sheet_53
+  - first:
+      213: 6622211289985260781
+    second: slimebubblierblue-Sheet_54
+  - first:
+      213: -6896365054562251992
+    second: slimebubblierblue-Sheet_55
+  - first:
+      213: -1559862975398729212
+    second: slimebubblierblue-Sheet_56
+  - first:
+      213: -1601227121271701302
+    second: slimebubblierblue-Sheet_0
+  - first:
+      213: 3573035951991926026
+    second: slimebubblierblue-Sheet_1
+  - first:
+      213: 7422010129596618484
+    second: slimebubblierblue-Sheet_2
+  - first:
+      213: 7567276042680541397
+    second: slimebubblierblue-Sheet_3
+  - first:
+      213: 901313452207321968
+    second: slimebubblierblue-Sheet_4
+  - first:
+      213: -6721555606407773351
+    second: slimebubblierblue-Sheet_5
+  - first:
+      213: 5216229655271040740
+    second: slimebubblierblue-Sheet_6
+  - first:
+      213: 7002220728997127087
+    second: slimebubblierblue-Sheet_7
+  - first:
+      213: 1226756091787493254
+    second: slimebubblierblue-Sheet_8
+  - first:
+      213: -8458063481672079382
+    second: slimebubblierblue-Sheet_9
+  - first:
+      213: 5977374416723251773
+    second: slimebubblierblue-Sheet_10
+  - first:
+      213: 6820469242492964298
+    second: slimebubblierblue-Sheet_11
+  - first:
+      213: 2470176692363420840
+    second: slimebubblierblue-Sheet_12
+  - first:
+      213: -1070827644658494212
+    second: slimebubblierblue-Sheet_13
+  - first:
+      213: -824361246464557701
+    second: slimebubblierblue-Sheet_14
+  - first:
+      213: 1415295405082722787
+    second: slimebubblierblue-Sheet_15
+  - first:
+      213: -3128138643648615644
+    second: slimebubblierblue-Sheet_16
+  - first:
+      213: 5681353994060025457
+    second: slimebubblierblue-Sheet_57
+  - first:
+      213: -2643854429810378792
+    second: slimebubblierblue-Sheet_58
+  - first:
+      213: -7325013890940314950
+    second: slimebubblierblue-Sheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac001e7ba6c47c9e0800000000000000
+      internalID: -1601227121271701302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dad208449f59130800000000000000
+      internalID: 3573035951991926026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f615fda3e6400760800000000000000
+      internalID: 7422010129596618484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02c49b77d540960800000000000000
+      internalID: 7567276042680541397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07339163fcb128c00800000000000000
+      internalID: 901313452207321968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953870ec9cc38b2a0800000000000000
+      internalID: -6721555606407773351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e9451c35c36840800000000000000
+      internalID: 5216229655271040740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa320c657a2ec2160800000000000000
+      internalID: 7002220728997127087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3a057a20560110800000000000000
+      internalID: 1226756091787493254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76b3f731cee9a80800000000000000
+      internalID: -8458063481672079382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321c4ecc56e3f250800000000000000
+      internalID: 5977374416723251773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4540c3ac27ae50800000000000000
+      internalID: 6820469242492964298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a465c83d94d74220800000000000000
+      internalID: 2470176692363420840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf456704ee7a321f0800000000000000
+      internalID: -1070827644658494212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db1e160d74f84f0800000000000000
+      internalID: -824361246464557701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1c2302ca324a310800000000000000
+      internalID: 1415295405082722787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimebubblierblue-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be6292a7e9694d0800000000000000
+      internalID: -3128138643648615644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

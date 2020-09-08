@@ -4,19 +4,50 @@ using UnityEngine;
 
 public class Mob : Entity
 {
+    public Transform target;
+    public float chaseRadius;
+    public float attackRadius;
+    public Transform homePosition;
 
-    override public void dealDmg(Entity target, int dmg)
+    override protected void Start()
     {
-        Debug.Log(this.name + "deals " + dmg + " damage to " + target.getName() + "!");
-        target.takeDmg(dmg);
+        target = GameObject.FindWithTag("Player").transform;
     }
 
-    override public void takeDmg(int dmg)
+    override protected void Update()
     {
-        this.hp -= dmg;
+        CheckDistance();
+    }
+
+    void CheckDistance()
+    {
+        //if (Vector3.Distance(target.position, transform.position) <= chaseRadius / 2)
+        //{
+            if (Vector3.Distance(target.position, transform.position) <= chaseRadius && Vector3.Distance(target.position, transform.position) > attackRadius)
+            {
+                transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+            }
+        //}
+    }
+
+
+    override public void DealDmg(Entity target, int dmg)
+    {
+        Debug.Log(this.name + "deals " + dmg + " damage to " + target.getName() + "!");
+        target.TakeDmg(dmg);
+    }
+
+    override public void TakeDmg(int dmg)
+    {
+        int netDmg;
+
+
+        netDmg = dmg + Random.Range(0, (int)(dmg * 0.15));
+
+        this.hp -= netDmg;
         if (this.hp <= 0)
         {
-            die();
+            Die();
         }
         else
         {
@@ -24,20 +55,13 @@ public class Mob : Entity
         }
     }
 
-    override public void die()
+    override public void Die()
     {
         Debug.Log(this.name + " died!");
         Destroy(gameObject);
     }
 
-    override protected void Start()
-    {
-    }
 
-    override protected void Update()
-    {
-
-    }
 
     //private void OnTriggerEnter2D(Collider2D collision)
     //{
